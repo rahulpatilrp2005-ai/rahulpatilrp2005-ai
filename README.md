@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Sanket%20PATIL&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:020617,50:0F172A,100:164E63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SANKET%20PATIL&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:020617,50:0F172A,100:164E63"/>
 
 <br>
 
