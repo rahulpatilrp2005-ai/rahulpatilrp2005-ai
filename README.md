@@ -23,7 +23,7 @@
 ```java
 public class Sanket Patil {
 
-    String name = "Rahul Patil";
+    String name = "Sanket Patil";
     String education = "B.Tech - Information Technology";
     String role = "Aspiring Full Stack Developer";
 
