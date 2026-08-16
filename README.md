@@ -1,47 +1,62 @@
 <div align="center">
 
-# 👋 Hi, I'm Sanket Patil
+# 👋 Hi, I'm Rahul Patil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+C%2B%2B+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" alt="Typing Animation" />
-
-<br>
-
-<a href="https://github.com/rahulpatilrp2005-ai">
-<img src="https://komarev.com/ghpvc/?username=rahulpatilrp2005-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/rahulpatilrp2005-ai?tab=followers">
-<img src="https://img.shields.io/github/followers/rahulpatilrp2005-ai?label=Followers&style=flat&color=blue" alt="Followers"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+C%2B%2B+Developer;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const sanket = {
-    role: "Full Stack Developer",
-    education: "Information Technology",
-    focus: ["Web Development", "MERN Stack", "Problem Solving"],
-    languages: ["Java", "C++", "JavaScript"],
-    frontend: ["HTML", "CSS", "React.js"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "VS Code"],
-    currentlyLearning: "Advanced Full Stack Development",
-    goal: "Build useful and scalable applications"
-};
+```java
+public class RahulPatil {
+
+    String name = "Rahul Patil";
+    String education = "B.Tech - Information Technology";
+    String role = "Aspiring Full Stack Developer";
+
+    String[] interests = {
+        "Full Stack Development",
+        "Web Development",
+        "Software Development",
+        "Data Structures & Algorithms",
+        "Artificial Intelligence"
+    };
+
+    String[] currentlyLearning = {
+        "Java",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    };
+
+    String[] technologies = {
+        "MERN Stack",
+        "MySQL",
+        "Git & GitHub",
+        "VS Code"
+    };
+
+    String mindset = "Learn → Build → Practice → Improve";
+
+}
 ```
 
-💻 I enjoy building **modern and user-friendly web applications**.
+---
 
-🌱 Currently improving my skills in **Full Stack Development and MERN Stack**.
+## 🚀 What I'm Working On
 
-🧠 Interested in **problem solving, software development and emerging technologies**.
-
-🎯 My goal is to become a strong **Full Stack Developer** and build real-world solutions.
+```text
+🔹 Building full-stack web applications
+🔹 Improving Java & problem-solving skills
+🔹 Learning advanced MERN Stack development
+🔹 Working on real-world projects
+🔹 Exploring AI-powered applications
+```
 
 ---
 
@@ -49,73 +64,45 @@ const sanket = {
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,js" />
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 🏫 Smart Complaint Management System
 
-A web-based system designed to simplify **college and hostel complaint management**.
+A MERN-stack based web application for managing college and hostel complaints.
 
-**Features:**
+```text
+Student → Submit Complaint → Categorization → Admin → Status Tracking
+```
 
-* 📝 Online complaint submission
-* 🏷️ Complaint categorization
-* ⚡ Electrical, Water and Internet categories
-* 📊 Complaint status tracking
-* 👨‍💼 Admin management interface
+**Technologies:**
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-**Tech:** `MERN Stack`
-
-🔗 **Repository:**
-https://github.com/rahulpatilrp2005-ai/Student-Smart-Complaint-Management-System
+🔗 [View Project](https://github.com/rahulpatilrp2005-ai/Student-Smart-Complaint-Management-System)
 
 ---
 
 ### 🏡 WonderLust — Vacation Rental Platform
 
-A full-stack vacation rental platform for managing property listings and bookings.
+A full-stack vacation rental platform with authentication, listings, bookings and image uploads.
 
-**Features:**
+**Technologies:**
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-* 🔐 User authentication
-* 🏠 Property listings
-* 🔎 Search and filters
-* 📅 Booking functionality
-* ☁️ Cloudinary image uploads
-* 🔌 REST APIs
-* 🏗️ MVC architecture
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-🔗 **Repository:**
-https://github.com/rahulpatilrp2005-ai/WonderLust-Vacation-Rental-Platform
+🔗 [View Project](https://github.com/rahulpatilrp2005-ai/WonderLust-Vacation-Rental-Platform)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulpatilrp2005-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahulpatilrp2005-ai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatilrp2005-ai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
@@ -127,46 +114,23 @@ https://github.com/rahulpatilrp2005-ai/WonderLust-Vacation-Rental-Platform
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rahulpatilrp2005-ai&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rahulpatilrp2005-ai&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🎯 2026 Goals
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahulpatilrp2005-ai/rahulpatilrp2005-ai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-🌐 Full Stack Web Development
-⚛️ React.js
-🟢 Node.js & Express.js
-🍃 MongoDB
-☕ Java
-💡 Data Structures & Problem Solving
-🚀 Building Real-World Projects
-```
-
----
-
-## 📈 My Developer Journey
-
-```text
-2024  ────────► Started Programming
-                    │
-2025  ────────► Web Development
-                    │
-2026  ────────► MERN Stack & Full Stack Projects
-                    │
-2027  ────────► Becoming a Professional Full Stack Developer 🚀
+```java
+String[] goals = {
+    "Master Java & DSA",
+    "Become a Strong Full Stack Developer",
+    "Build More Real-World Projects",
+    "Improve Problem Solving",
+    "Learn Advanced Backend Development",
+    "Explore Artificial Intelligence"
+};
 ```
 
 ---
@@ -189,9 +153,8 @@ https://github.com/rahulpatilrp2005-ai/WonderLust-Vacation-Rental-Platform
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat. 🚀"
+### 💻 Learn → Build → Practice → Improve 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
-
