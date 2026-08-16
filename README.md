@@ -21,7 +21,7 @@
 # 👨‍💻 About Me
 
 ```java
-public class RahulPatil {
+public class Sanket Patil {
 
     String name = "Rahul Patil";
     String education = "B.Tech - Information Technology";
